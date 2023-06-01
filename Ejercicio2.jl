@@ -9,3 +9,5 @@ for k = 1:n
 end
 
 println("La suma parcial de orden 100 es: ", round(S_n, digits=10))
+
+## dudoso: 0.4054651081
